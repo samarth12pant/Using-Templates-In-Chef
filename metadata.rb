@@ -1,0 +1,8 @@
+name 'usingTemplatesInChef'
+maintainer 'Samarth Pant'
+maintainer_email 'samarth12pant@gmail.com'
+license 'All Rights Reserved'
+description 'Installs/Configures usingTemplatesInChef'
+long_description 'Installs/Configures usingTemplatesInChef'
+version '0.1.0'
+chef_version '>= 14.0'
